@@ -1,0 +1,43 @@
+h1 { color: red; }
+ { color: blue; }
+
+
+.yr｛
+color:red;
+｝
+
+.yr｛
+color:red;
+｝
+
+#birth {
+color: green;
+}
+
+#birth {
+color: green;
+}
+
+.title {
+border: solid 1px black;
+background: orange;
+text-align: center;
+}
+ 
+
+
+.gradient {
+ background: linear-gradient(to right , #38a092 , #fdbf3b);
+ color: white;
+ text-align: center;
+ font-size: 24px;
+}
+.gradient {
+background: linear-gradient(to right , #38a092 , #fdbf3b);
+color: white;
+}
+
+
+.back {
+background: orange;
+}
