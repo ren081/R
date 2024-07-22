@@ -16,7 +16,13 @@ color: green;
 .B {
 font-size: 24px;
 }
-
+.B {
+padding: 10px 0;
+color: #01558d;
+border-top: solid 2px;
+border-bottom: solid 2px;
+text-align: center;
+}
 
 #birth {
 color: green;
